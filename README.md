@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi there, I'm Linkmon!
 
-<!--
-**lkmon0987/lkmon0987** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a web creator & content strategist.  
+I write about SEO, blogging, and digital tools.
 
-Here are some ideas to get you started:
+🔗 Visit my website → [[https://](https://xn--9y2bwq553c.com/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills
+- HTML, CSS, JS
+- WordPress, Notion
+- SEO Optimization
+
+## ✍️ Blog Topics
+- Self-development
+- Online monetization
+- Website performance tips
